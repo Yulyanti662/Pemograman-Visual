@@ -1,0 +1,17 @@
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\bin\Debug\VISUAL.exe.config
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\bin\Debug\VISUAL.exe
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\bin\Debug\VISUAL.pdb
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\bin\Debug\VISUAL.xml
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.vbprojAssemblyReference.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.FormUtama.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Form2.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Resources.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.vbproj.GenerateResource.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.vbproj.CoreCompileInputs.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.exe
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.xml
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.pdb
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Form3.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Form4.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Form5.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\Project Utama\VISUAL\VISUAL\obj\Debug\VISUAL.Form6.resources
