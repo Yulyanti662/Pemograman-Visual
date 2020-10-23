@@ -1,0 +1,12 @@
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\bin\Debug\pertemuan 3 slide 14.exe.config
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\bin\Debug\pertemuan 3 slide 14.exe
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\bin\Debug\pertemuan 3 slide 14.pdb
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\bin\Debug\pertemuan 3 slide 14.xml
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.vbprojAssemblyReference.cache
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan_3_slide_14.Form1.resources
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan_3_slide_14.Resources.resources
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.vbproj.GenerateResource.cache
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.vbproj.CoreCompileInputs.cache
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.exe
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.xml
+D:\TUGAS\Tugas Visual basic\pertemuan 3 slide 14\obj\Debug\pertemuan 3 slide 14.pdb
